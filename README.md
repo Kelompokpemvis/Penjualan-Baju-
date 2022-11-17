@@ -1,2 +1,2 @@
 # Penjualan-Baju-
-{ "Senin": Jelbab,: Rp 75000, "Selasa": Gamis,: Rp 365000, "Rabu": Celana,: Rp 80000, "Kamis": Kemeja,: Rp 130000, "Jumat": Rok,: Rp 100000 "Sabtu": Jaket,: Rp 600000 "Minggu": Kaos,: Rp 250000 }
+{ "Senin": ,Rp 75000, "Selasa":, Rp 365000, "Rabu":, Rp 80000, "Kamis":, Rp 130000, "Jumat":, Rp 100000 "Sabtu":, Rp 600000 "Minggu": ,Rp 250000 }
